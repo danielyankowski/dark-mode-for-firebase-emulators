@@ -1,4 +1,4 @@
-# Vite + React + TypeScript Project
+# Dark Mode For Firebase
 
 Welcome to the most beautiful, dazzling, and absolutely unhinged Vite + React + TypeScript boilerplate this side of Sadyba and Stegny. If you thought your last project was a masterpiece, to ja ci powiem, że to jest Mona Lisa po trzech flaszkach i zębach wybitych na Szembeku.
 
